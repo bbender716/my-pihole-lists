@@ -270,3 +270,4 @@ id,type,domain,enabled,date_added,date_modified,comment
 277,0,sp-ad-cf.audio.tidal.com,1,1638029171,1638029171,
 278,2,(\.|^)venstar\.skyportcloud\.com$,1,1645914039,1645914039,
 279,2,(\.|^)*skyportcloud\.com$,1,1645914061,1645914061,
+280,0,sp-ad-fa.audio.tidal.com,1,1647020356,1647020356,"Added from Query Log"
